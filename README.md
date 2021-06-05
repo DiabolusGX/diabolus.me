@@ -1,9 +1,7 @@
-### diabolus.me
+## 🔗 [diabolus.me](http://diabolus.me/)
 
 Welcome to my personal website!
 Hope you like what you see and have a wonderful day.
-
-### TL;DR
 
 Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
