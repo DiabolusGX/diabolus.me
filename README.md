@@ -3,7 +3,7 @@
 Welcome to my personal website!
 Hope you like what you see and have a wonderful day.
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Brittany Chiang](https://github.com/bchiang7). Thanks!
 
 ## 🛠 Installation & Set Up
 
