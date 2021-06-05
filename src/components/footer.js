@@ -41,7 +41,14 @@ const StyledCredit = styled.div`
 const Footer = () => (
   <StyledFooter>
     <StyledCredit tabindex="-1">
-      <div>Designed by Brittany Chiang</div>
+      <a href="https://github.com/diabolusgx">
+        <div>Edited &amp; Maintained by DiabolusGX</div>
+      </a>
+      <div>Designed by
+        <a href="https://github.com/bchiang7">
+          Brittany Chiang
+        </a>
+      </div>
     </StyledCredit>
   </StyledFooter>
 );
