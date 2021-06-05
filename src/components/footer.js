@@ -42,7 +42,7 @@ const Footer = () => (
   <StyledFooter>
     <StyledCredit tabindex="-1">
       <a href="https://github.com/diabolusgx">
-        <div>Edited &amp; Maintained by DiabolusGX</div>
+        <div>Edited &amp; Maintained by Ankit Malik</div>
       </a>
       <div>Designed by
         <a href="https://github.com/bchiang7">
