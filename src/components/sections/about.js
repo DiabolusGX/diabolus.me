@@ -139,7 +139,7 @@ const About = () => {
             <p>
               Hello <span role="img" aria-label="wave">👋</span> {' '}
               My name is Ankit Malik and I love coding and learning new technologies.
-              I started programming back in 2018 and I love it because it provides us canvas where out
+              I started programming back in 2018 and I love it because it provides us canvas where our
               creativity is the limit for making new things and putting them on internet for others to use.
             </p>
 

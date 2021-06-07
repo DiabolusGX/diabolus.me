@@ -8,6 +8,7 @@ module.exports = {
     siteUrl: 'https://diabolus.me/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@diabolusgx',
+    keywords: 'Ankit Malik, Diabolus, DiabolusGX, Full Stack Developer',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
