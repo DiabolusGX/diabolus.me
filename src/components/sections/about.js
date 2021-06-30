@@ -126,7 +126,7 @@ const About = () => {
   }, []);
 
   const skills = ['Java', 'JavaScript (ES6+)', 'TypeScript',
-    'React', 'Express.js', 'Mongoose', 'Node.js', 'Redux', 'SASS', 'Tailwind', 'APIs',
+    'React', 'Express.js', 'Mongoose', 'Node.js', 'Redux', 'SASS', 'Tailwind', 'Unity',
     'Git', 'Nginx', 'Postman'];
 
   return (
