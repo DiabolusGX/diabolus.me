@@ -125,9 +125,22 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Java', 'JavaScript (ES6+)', 'TypeScript',
-    'React', 'Express.js', 'Mongoose', 'Node.js', 'Redux', 'SASS', 'Tailwind', 'Unity',
-    'Git', 'Nginx', 'Postman'];
+  const skills = [
+    'Java',
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'React',
+    'Express.js',
+    'Mongoose',
+    'Node.js',
+    'Redux',
+    'SASS',
+    'Tailwind',
+    'Unity',
+    'Git',
+    'Nginx',
+    'Postman',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,18 +150,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello <span role="img" aria-label="wave">👋</span> {' '}
-              My name is Ankit Malik and I love coding and learning new technologies.
-              I started programming back in 2018 and I love it because it provides us canvas where our
-              creativity is the limit for making new things and putting them on internet for others to use.
+              Hello{' '}
+              <span role="img" aria-label="wave">
+                👋
+              </span>{' '}
+              My name is Ankit Malik and I love coding and learning new technologies. I started
+              programming back in 2018 and I love it because it provides us canvas where our
+              creativity is the limit for making new things and putting them on internet for others
+              to use.
             </p>
 
             <p>
-              Along the way in this journey, I've worked with many teams {' '}
-              from group assignments &amp; yearly projects to community projects.{' '}
-              My main focus these days is to use my education &amp;
-              skills with other enthusiastic developers on a project with great vision
-              that will benefit users on a large scale in their day-to-day lives.
+              Along the way in this journey, I've worked with many teams from group assignments
+              &amp; yearly projects to community projects. My main focus these days is to use my
+              education &amp; skills with other enthusiastic developers on a project with great
+              vision that will benefit users on a large scale in their day-to-day lives.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

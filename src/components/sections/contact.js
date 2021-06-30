@@ -60,8 +60,8 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm currently looking for new opportunities for working on exciting Projects
-        with pationate developers. <br />
+        I'm currently looking for new opportunities for working on exciting Projects with pationate
+        developers. <br />
         My inbox is always open and I'll try my best to get back to you ASAP!
       </p>
 

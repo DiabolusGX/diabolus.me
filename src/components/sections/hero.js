@@ -59,16 +59,19 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Ankit Malik {' '}
-    <span style={{ fontSize: '0.35em' }}>aka DiabolusGX.</span>
-  </h2>;
+  const two = (
+    <h2 className="big-heading">
+      Ankit Malik <span style={{ fontSize: '0.35em' }}>aka DiabolusGX.</span>
+    </h2>
+  );
   const three = <h3 className="big-heading">Full Stack Developer.</h3>;
   const four = (
     <p>
-      I'm currently final year B.Tech (Computer Science) student
-      who specializes in building (and occasionally designing)
-      useful applications with good user experiences. <br/><br/>
-      Currently, I'm looking for new opportunities for working with passionate developers on large scale projects.
+      I'm currently final year B.Tech (Computer Science) student who specializes in building (and
+      occasionally designing) useful applications with good user experiences. <br />
+      <br />
+      Currently, I'm looking for new opportunities for working with passionate developers on large
+      scale projects.
     </p>
   );
   const five = (

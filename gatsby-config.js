@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Ankit Malik',
     description:
-      'Ankit Malik (aka DiabolusGX) is a full stack developer who aims to make impact on large scale in people\'s day-to-day interaction with technology.',
+      "Ankit Malik (aka DiabolusGX) is a full stack developer who aims to make impact on large scale in people's day-to-day interaction with technology.",
     siteUrl: 'https://diabolus.me/', // No trailing slash allowed!
     image: '/info.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@diabolusgx',
