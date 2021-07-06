@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://diabolus.me/sitemap.xml
-Host: https://diabolus.me
