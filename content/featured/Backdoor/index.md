@@ -3,11 +3,11 @@ date: '4'
 title: 'Backdoor'
 cover: './demo.png'
 github: 'https://github.com/BackdoorForum'
-external: 'https://github.com/BackdoorForum'
+external: 'https://backdoor-forum.herokuapp.com/'
 tech:
+  - Typescript
   - ExpressJS
   - MongoDB
-  - Postman
   - ReactJS
   - Tailwind
 showInProjects: true
