@@ -3,6 +3,7 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
+import { email } from '@config';
 
 const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -60,29 +61,30 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Ankit Malik.</h2>;
+  const three = <h3 className="big-heading">I'm a software engineer.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        Dedicated to solving tech problems, specialize in designing reliable and scalable systems. I
+        have been translating business requirements into real-world applications at{' '}
+        <a href="https://zomato.com/" target="_blank" rel="noreferrer">
+          Zomato
         </a>
         .
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
-    </a>
+    <>
+      <p>
+        Currently, I'm looking for new opportunities to collaborate with like minded peers towards a
+        common goal.
+      </p>
+      <a className="email-link" href={`mailto:${email}`} target="_blank" rel="noreferrer">
+        Get In Touch
+      </a>
+    </>
   );
 
   const items = [one, two, three, four, five];

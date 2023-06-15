@@ -1,12 +1,13 @@
 ---
-date: '2018-12-29'
+date: '2021-2-14'
 title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+github: 'https://github.com/DiabolusGX/Keeper'
+external: 'http://jsl-keeper.herokuapp.com/'
 tech:
-  - Vue
-  - Firebase
+  - ReactJS
+  - MongoDB
+company: ''
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+A simple Google Keep clone with Google OAuth built with ReactJS and MongoDB.

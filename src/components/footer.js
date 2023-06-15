@@ -74,7 +74,8 @@ const Footer = () => {
   });
 
   useEffect(() => {
-    if (process.env.NODE_ENV !== 'production') {
+    // INFO: random value to keep github info disabled
+    if (process.env.NODE_ENV !== 'random-value-github-info-disabled') {
       return;
     }
     fetch('https://api.github.com/repos/bchiang7/v4')
