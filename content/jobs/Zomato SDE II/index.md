@@ -1,7 +1,7 @@
 ---
 date: '2023-05-01'
 title: 'SDE II'
-company: 'Zomato'
+company: 'Zomato (SDE II)'
 location: 'Gurgaon, HR (India)'
 range: 'June 2023 - Present'
 url: 'https://www.zomato.com/'

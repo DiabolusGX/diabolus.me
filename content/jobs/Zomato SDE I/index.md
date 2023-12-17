@@ -1,7 +1,7 @@
 ---
 date: '2022-05-20'
 title: 'SDE I'
-company: 'Zomato'
+company: 'Zomato (SDE I)'
 location: 'Gurgaon, HR (India)'
 range: 'June 2022 - June 2023'
 url: 'https://www.zomato.com/'
